@@ -1,4 +1,5 @@
 # GradHive
+<<<<<<< HEAD
 
 GradHive est une plateforme bilingue (français/anglais) qui valorise les parcours et travaux académiques, met en relation les membres et donne accès à des opportunités professionnelles et académiques.
 
@@ -120,3 +121,6 @@ Ces exclusions concernent uniquement le paquet déployé ; ne supprimez pas ces 
 Conservez `web/src/`, `web/public/`, `gradhive-api/app/`, `routes/`, `config/`, `database/migrations/`, les manifestes de dépendances et `gradhive-api/storage/` (stockage et exécution Laravel). Avant Vercel, renseignez `API_URL` et remplacez l’origine d’exemple `https://VOTRE-API.onrender.com` dans la CSP de `web/vercel.json`. Côté Render, renseignez `CORS_ALLOWED_ORIGINS` et les secrets PostgreSQL/stockage.
 
 Les données et comptes de démonstration sont fictifs ; remplacez-les avant une mise en production.
+=======
+GradHive est un réseau d'authenticité institutionnelle. GradHive redéfinit les règles de visibilité . Il garantit une égalité des chances en propulsant la visibilité des jeunes diplômés dès le jour de leur graduation auprès des entreprises et hubs technologiques, indépendamment de toute expérience préalable .
+>>>>>>> bc8c0ccac1502311ae079b7c36b4c4d9181aeaa9
