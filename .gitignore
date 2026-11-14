@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.angular/
+vendor/
+.env
+storage/
+build/
+.dart_tool/

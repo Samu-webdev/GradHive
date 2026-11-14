@@ -1,0 +1,31 @@
+{
+  "name": "GradHive — Savoir, Mentorat, Opportunités",
+  "short_name": "GradHive",
+  "description": "Le réseau académique international des diplômés.",
+  "lang": "fr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f3faff",
+  "theme_color": "#39a9df",
+  "icons": [
+    {
+      "src": "/favicon.svg?v=7",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/app-icon-192.png?v=4",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/app-icon-512.png?v=4",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

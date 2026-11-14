@@ -1,0 +1,13 @@
+{
+  "name": "gradhive",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix web start",
+    "start:web": "npm --prefix web start",
+    "start:api": "cd gradhive-api && php artisan serve --host=127.0.0.1 --port=8000",
+    "start:mock-api": "npm --prefix mock-api start",
+    "build": "npm --prefix web run build",
+    "migrate": "cd gradhive-api && php artisan migrate --seed",
+    "test:api": "cd gradhive-api && php artisan test"
+  }
+}

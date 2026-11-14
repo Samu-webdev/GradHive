@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 80">
+  <defs>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#269ed8"/>
+      <stop offset="1" stop-color="#55bbed"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2=".8" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".3"/>
+      <stop offset=".55" stop-color="#fff" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="tile-clip">
+      <rect x="4" y="4" width="72" height="72" rx="20"/>
+    </clipPath>
+  </defs>
+  <rect x="4" y="4" width="72" height="72" rx="20" fill="url(#glass)"/>
+  <g clip-path="url(#tile-clip)">
+    <path d="M4 4h72v21Q40 38 4 22z" fill="url(#shine)"/>
+  </g>
+  <text x="40" y="53" text-anchor="middle" fill="#fff"
+    font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="800" letter-spacing="-2.5">GH</text>
+  <text x="94" y="54" fill="#1e2a3a"
+    font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" letter-spacing="-1.6">Grad<tspan fill="#1e93d6" font-weight="800">Hive</tspan></text>
+</svg>

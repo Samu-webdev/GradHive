@@ -1,0 +1,42 @@
+name: gradhive_mobile
+description: GradHive Mobile — client Android et iOS de la plateforme GradHive (API Laravel existante).
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  http: ^1.2.2
+  provider: ^6.1.2
+  go_router: ^18.1.4
+  flutter_secure_storage: ^11.2.0
+  shared_preferences: ^2.3.3
+  file_selector: ^1.0.3
+  url_launcher: ^6.3.1
+  path_provider: ^2.1.5
+  open_filex: ^5.0.0
+  intl: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.3
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+# Génération de l'icône Android/iOS : dart run flutter_launcher_icons
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo.png"
+  remove_alpha_ios: true

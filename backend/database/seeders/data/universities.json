@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Université Laurentia",
+    "country": "Canada",
+    "city": "Montréal",
+    "website": "https://example.org/laurentia",
+    "description": "Université de recherche francophone, forte en informatique et en sciences des données.",
+    "is_demo": true
+  },
+  {
+    "id": 2,
+    "name": "Rheinland Institute of Technology",
+    "country": "Allemagne",
+    "city": "Aix-la-Chapelle",
+    "website": "https://example.org/rit",
+    "description": "Institut technologique orienté ingénierie, avec de nombreux postes de recherche financés.",
+    "is_demo": true
+  },
+  {
+    "id": 3,
+    "name": "Université de Lumière-Lyon",
+    "country": "France",
+    "city": "Lyon",
+    "website": "https://example.org/lumiere-lyon",
+    "description": "Université pluridisciplinaire avec des laboratoires associés au CNRS.",
+    "is_demo": true
+  },
+  {
+    "id": 4,
+    "name": "Université Atlas de Rabat",
+    "country": "Maroc",
+    "city": "Rabat",
+    "website": "https://example.org/atlas-rabat",
+    "description": "Université publique tournée vers la coopération Sud-Sud et le numérique.",
+    "is_demo": true
+  },
+  {
+    "id": 5,
+    "name": "Cape Meridian University",
+    "country": "Afrique du Sud",
+    "city": "Le Cap",
+    "website": "https://example.org/cape-meridian",
+    "description": "Université anglophone proposant des assistanats d’enseignement en sciences et ingénierie.",
+    "is_demo": true
+  },
+  {
+    "id": 6,
+    "name": "Université libre de Brabant",
+    "country": "Belgique",
+    "city": "Bruxelles",
+    "website": "https://example.org/brabant",
+    "description": "Université francophone avec un programme de doctorat en cotutelle.",
+    "is_demo": true
+  }
+]

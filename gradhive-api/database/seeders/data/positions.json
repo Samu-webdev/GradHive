@@ -1,0 +1,215 @@
+[
+  {
+    "id": 1,
+    "university_id": 1,
+    "type": "RA",
+    "title": "Assistant de recherche en apprentissage automatique",
+    "department": "Département d’informatique",
+    "field": "Informatique",
+    "required_level": "master",
+    "min_average": 13,
+    "language_requirements": {
+      "TCF": 500,
+      "IELTS": 6.5
+    },
+    "language_waiver_allowed": true,
+    "required_documents": [
+      "cv",
+      "transcripts",
+      "motivation_letter",
+      "recommendation_letter",
+      "research_proposal"
+    ],
+    "funding": "Allocation mensuelle de 2 100 CAD et exonération des frais de scolarité internationaux",
+    "seats": 3,
+    "deadline": "2027-01-31",
+    "description": "Participation à un projet sur l’IA appliquée à l’éducation, sous la direction d’un professeur titulaire."
+  },
+  {
+    "id": 2,
+    "university_id": 1,
+    "type": "TA",
+    "title": "Auxiliaire d’enseignement en programmation",
+    "department": "Département d’informatique",
+    "field": "Informatique",
+    "required_level": "master",
+    "min_average": 12,
+    "language_requirements": {},
+    "language_waiver_allowed": false,
+    "required_documents": [
+      "cv",
+      "transcripts",
+      "motivation_letter"
+    ],
+    "funding": "Rémunération horaire et exonération partielle des frais",
+    "seats": 6,
+    "deadline": "2026-12-15",
+    "description": "Encadrement de travaux pratiques de programmation pour les étudiants de première année."
+  },
+  {
+    "id": 3,
+    "university_id": 2,
+    "type": "RA",
+    "title": "Research Assistant in Embedded Systems",
+    "department": "Faculty of Electrical Engineering",
+    "field": "Génie électrique",
+    "required_level": "master",
+    "min_average": 14,
+    "language_requirements": {
+      "TOEFL": 90,
+      "IELTS": 6.5
+    },
+    "language_waiver_allowed": false,
+    "required_documents": [
+      "cv",
+      "transcripts",
+      "motivation_letter",
+      "recommendation_letter",
+      "language_certificate",
+      "passport"
+    ],
+    "funding": "Contrat de 1 800 EUR par mois pendant 12 mois",
+    "seats": 2,
+    "deadline": "2027-02-28",
+    "description": "Développement de systèmes embarqués pour l’énergie renouvelable dans un laboratoire international."
+  },
+  {
+    "id": 4,
+    "university_id": 2,
+    "type": "TA",
+    "title": "Teaching Assistant in Data Structures",
+    "department": "Faculty of Computer Science",
+    "field": "Informatique",
+    "required_level": "master",
+    "min_average": 13,
+    "language_requirements": {
+      "TOEFL": 80
+    },
+    "language_waiver_allowed": false,
+    "required_documents": [
+      "cv",
+      "transcripts",
+      "language_certificate"
+    ],
+    "funding": "Salaire mensuel de 1 100 EUR",
+    "seats": 4,
+    "deadline": "2026-09-30",
+    "description": "Soutien pédagogique aux cours d’algorithmique (période de candidature clôturée, exemple de contrôle de date limite)."
+  },
+  {
+    "id": 5,
+    "university_id": 3,
+    "type": "RA",
+    "title": "Assistant de recherche en humanités numériques",
+    "department": "Faculté des lettres et sciences humaines",
+    "field": "Sciences humaines",
+    "required_level": "licence",
+    "min_average": 12,
+    "language_requirements": {
+      "TCF": 400
+    },
+    "language_waiver_allowed": true,
+    "required_documents": [
+      "cv",
+      "transcripts",
+      "motivation_letter"
+    ],
+    "funding": "Vacations de recherche de 900 EUR par mois",
+    "seats": 2,
+    "deadline": "2027-01-15",
+    "description": "Numérisation et analyse de corpus de textes africains francophones."
+  },
+  {
+    "id": 6,
+    "university_id": 3,
+    "type": "TA",
+    "title": "Moniteur en mathématiques appliquées",
+    "department": "UFR de mathématiques",
+    "field": "Mathématiques",
+    "required_level": "master",
+    "min_average": 14,
+    "language_requirements": {},
+    "language_waiver_allowed": false,
+    "required_documents": [
+      "cv",
+      "transcripts",
+      "recommendation_letter"
+    ],
+    "funding": "Contrat doctoral-moniteur, 1 400 EUR par mois",
+    "seats": 3,
+    "deadline": "2026-12-01",
+    "description": "Enseignement de travaux dirigés en analyse et algèbre linéaire."
+  },
+  {
+    "id": 7,
+    "university_id": 4,
+    "type": "RA",
+    "title": "Assistant de recherche en réseaux et télécommunications",
+    "department": "Faculté des sciences",
+    "field": "Télécommunications",
+    "required_level": "licence",
+    "min_average": 12,
+    "language_requirements": {},
+    "language_waiver_allowed": false,
+    "required_documents": [
+      "cv",
+      "transcripts",
+      "motivation_letter"
+    ],
+    "funding": "Bourse d’excellence de 5 000 MAD par mois",
+    "seats": 5,
+    "deadline": "2027-03-31",
+    "description": "Projet de coopération Sud-Sud sur la connectivité en zones rurales."
+  },
+  {
+    "id": 8,
+    "university_id": 5,
+    "type": "TA",
+    "title": "Teaching Assistant in Physics Laboratories",
+    "department": "Faculty of Science",
+    "field": "Physique",
+    "required_level": "master",
+    "min_average": 13,
+    "language_requirements": {
+      "IELTS": 6.5,
+      "TOEFL": 85
+    },
+    "language_waiver_allowed": false,
+    "required_documents": [
+      "cv",
+      "transcripts",
+      "recommendation_letter",
+      "language_certificate",
+      "passport"
+    ],
+    "funding": "Rémunération mensuelle de 9 000 ZAR et logement universitaire",
+    "seats": 4,
+    "deadline": "2027-01-20",
+    "description": "Encadrement de séances de laboratoire pour les étudiants de licence."
+  },
+  {
+    "id": 9,
+    "university_id": 6,
+    "type": "RA",
+    "title": "Assistant de recherche en santé publique",
+    "department": "École de santé publique",
+    "field": "Santé publique",
+    "required_level": "master",
+    "min_average": 14,
+    "language_requirements": {
+      "TCF": 500
+    },
+    "language_waiver_allowed": true,
+    "required_documents": [
+      "cv",
+      "transcripts",
+      "motivation_letter",
+      "research_proposal",
+      "recommendation_letter"
+    ],
+    "funding": "Contrat de 1 700 EUR par mois et exonération des frais d’inscription",
+    "seats": 2,
+    "deadline": "2027-02-15",
+    "description": "Étude sur l’accès aux soins en Afrique de l’Ouest, en partenariat avec des ONG."
+  }
+]
